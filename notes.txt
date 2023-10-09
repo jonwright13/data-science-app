@@ -1,0 +1,3 @@
+Ideas for improvement:
+► Compare 2 different datasets together (Test/train) to identify good/bad columns, etc
+► 
